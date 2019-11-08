@@ -1,5 +1,5 @@
 body {
-    background: rgb(238, 225, 231);
+    background: #eee1e7;
     height:1269px;
 }
 .col-md-7 {
@@ -10,7 +10,6 @@ body {
     top: 120px;
 }
 .col-sm-2 {
-   
     color: hotpink;
 }
 .namae-img {
@@ -20,4 +19,12 @@ h3 {
     border-left:10px solid hotpink;
     scroll-padding-right: 10px;
     height:28px;
+}
+.can-img {
+    padding: 30px;
+    margin-top: 10px;
+}
+.abc {
+     padding-top: 40px;
+     margin-left: 37px;
 }
