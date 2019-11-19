@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Thiết kế CV</title>
+        <title>CV design of ✰グエン クアン ドゥック✰</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" rel="stylesheet" href="style.css">
@@ -15,28 +15,28 @@
                     <div class="row">
                         <div class="col-md-5">
                             <span class="rounded-circle" style="border: rgb(225, 248, 225);border-image-outset: 5px;">
-                                <img src="anhduc.jpg" class="rounded-circle float-left" alt="avatar" width="269px" height="269px" left="375" top="57">
+                                <img src="anhduc.jpg" class="rounded-circle float-left namae-img" alt="avatar" width="269px" height="269px" left="375" top="57">
                             </span> 
                         </div>
                         <div class="col-md-7" style="line-height: 10px;">
-                            <h2>Percy L. jackson<h2>
-                            <h4>php & .Net developer</h4>
+                            <h4><b>✰グエン クアン ドゥック✰</b><h4>
+                            <h6><i>php & .Net developer</i></h6>
                         </div>
                     </div>
                 </div>        
                 <div class="col-lg-5 flex-column ml-auto">
                     <div class="row">
                         <div class="col-sm-2">
-                            <i class="fas fa-phone-square" style="font-size: 20px;"></i>
+                            <i class="fas fa-phone-square" style="font-size: 30px;"></i>
                         </div>
                         <div class="col-sm-10" style="font-size: 10px;">
-                        <p>+08565101365</p>
-                        <p>+08921222745</p>
+                        <p>+84565101365</p>
+                        <p>+84921222745</p>
                         </div> 
                     </div>                    
                     <div class="row">  
                         <div class="col-sm-2">
-                            <i class="fas fa-envelope" style="font-size: 20px;"></i>
+                            <i class="fas fa-envelope" style="font-size: 25px;"></i>
                         </div>
                         <div class="col-sm-10" style="font-size: 10px;">
                             <p>ducnguyenquang05@gmail.com</p>
@@ -44,10 +44,10 @@
                     </div>
                     <div class="row">  
                         <div class="col-sm-2">
-                            <i class="fas fa-home" style="font-size: 20px;"></i>
+                            <i class="fas fa-home" style="font-size: 25px;"></i>
                         </div>
                         <div class="col-sm-10" style="font-size: 10px;">
-                            <p>38 Miếu Đầm , Đường Đổ Đức Dục, Mễ Trì, Hà Nội</p>
+                            <p>38 Miếu Đầm , Đường Đỗ Đức Dục, Mễ Trì, Hà Nội</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         <div class="col-md-9">
                             <p><b>Name of Company</b></p>
                             <mark>DEVELOPER</mark>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, It is a long established fact that a reader will be distracted by the readable content of a page</p>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</p>
                         </div>
                     </div>
                     <br/>
@@ -71,7 +71,7 @@
                         <div class="col-md-9">
                             <p><b>Name of Company</b></p>
                             <mark>DEVELOPER</mark>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, It is a long established fact that a reader will be distracted by the readable content of a page</p>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</p>
                         </div>
                     </div>
                     <br/>
@@ -80,7 +80,7 @@
                         <div class="col-md-9">
                             <p><b>Name of Company</b></p>
                             <mark>DEVELOPER</mark>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, It is a long established fact that a reader will be distracted by the readable content of a page</p>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters</p>
                         </div>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                             <div class="col-md-9">
                                 <p><b>Name of School</b></p>
                                 <mark>DEVELOPER</mark>
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of lettersabc It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                                <p>It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
                             </div>
                     </div>
                     <br/>
@@ -100,7 +100,7 @@
                         <div class="col-md-9">
                             <p><b>Name of School</b></p>
                             <mark>DEVELOPER</mark>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of lettersabc It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
                         </div>
                     </div>
                     <br/>
@@ -109,79 +109,81 @@
                         <div class="col-md-9">
                             <p><b>Name of School</b></p>
                             <mark>DEVELOPER</mark>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of lettersabc It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of a page It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that</p>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5 flex-column">
                 <div>
+                   <div class ="abc">
                     <h3>Profile</h3>
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, It is a long established fact that a reader will be distracted by the readable content of a page</p>
+                   </div>
                 </div>
                 <div style="margin-top: 50px;">
+                   <div class ="abc">
                     <h3>SKILLS</h3>
                     <div>
                       <div>
                         <div class ="container">
                             <h7>PHP</h7>
                               <div class="progress">
-                               <div class="progress-bar bg-warning" style="width:85%;"></div>
+                               <div class="progress-bar bg-success" style="width:85%;"></div>
                             </div>
                         </div>
                         <div>
                             <h7>HTML/CSS</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:50%"></div>
+                                <div class="progress-bar bg-success " style="width:50%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>.NET</h7>
                             <div>
                                 <div class="progress">
-                                    <div class="progress-bar bg-warning" style="width:30%"></div>
+                                    <div class="progress-bar bg-success" style="width:30%"></div>
                                 </div>
                             </div>
                         </div>
                         <div>
                             <h7>MY SQL</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:75%"></div>
+                                <div class="progress-bar bg-success" style="width:75%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>PHP</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:80%"></div>
+                                <div class="progress-bar bg-success" style="width:80%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>HTML/CSS</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:40%"></div>
+                                <div class="progress-bar bg-success" style="width:40%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>.NET</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:60%"></div>
+                                <div class="progress-bar bg-success" style="width:60%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>EXCEL</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:90%"></div>
+                                <div class="progress-bar bg-success" style="width:90%"></div>
                             </div>
                         </div>
                         <div>
                             <h7>ENGLISH</h7>
                             <div class="progress">
-                                <div class="progress-bar bg-warning" style="width:50%"></div>
+                                <div class="progress-bar bg-success" style="width:50%"></div>
                             </div>
                           </div>
                         </div>
-                        
-
+                       </div>
                     </div>
                 </div>
             </div>
@@ -208,15 +210,15 @@
                     <div style="margin-top: 30px;">
                         <p><b>Name of Refrance</b></p>
                         <div class="row">
-                            <div class="col-sm-2"><b>Phone</b></div>
+                            <div class="col-sm-2"><b>Phone:</b></div>
                             <div class="col-sm-10">
-                                <mark>+123456789</mark>
+                                <p>+0565101365</p>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-sm-2"><b>Email</b></div>
+                            <div class="col-sm-2"><b>Email:</b></div>
                             <div class="col-sm-10">
-                                <mark>refrance@gmail.com</mark>
+                                <p>ducnguyenquang05@gmail.com</p>
                             </div>
                         </div>
                     </div>
@@ -224,15 +226,15 @@
                         <div style="margin-top: 30px;">
                             <p><b>Name of Refrance</b></p>
                             <div class="row">
-                                <div class="col-sm-2"><b>Phone</b></div>
+                                <div class="col-sm-2"><b>Phone:</b></div>
                                 <div class="col-sm-10">
-                                    <mark>+123456789</mark>
+                                    <p>+0921222745</p>
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col-sm-2"><b>Email</b></div>
+                                <div class="col-sm-2"><b>Email:</b></div>
                                 <div class="col-sm-10">
-                                    <mark>refrance@gmail.com</mark>
+                                    <p>ducnguyenquang05@gmail.com</p>
                                 </div>
                             </div>
                         </div>
@@ -241,6 +243,7 @@
             </div>
             <div class="col-xl-4">
                 <h3>INTEREST</h3>
+                    <img src="anh.jpg"  class="rounded float-left can-img" height ="300" width ="400">
             </div>
         </footer>
     </body>
