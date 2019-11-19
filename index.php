@@ -30,8 +30,8 @@
                             <i class="fas fa-phone-square" style="font-size: 30px;"></i>
                         </div>
                         <div class="col-sm-10" style="font-size: 10px;">
-                        <p>+08565101365</p>
-                        <p>+08921222745</p>
+                        <p>+84565101365</p>
+                        <p>+84921222745</p>
                         </div> 
                     </div>                    
                     <div class="row">  
